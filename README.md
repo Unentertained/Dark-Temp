@@ -19,11 +19,11 @@ Make Pages
 8. Users Home Page (My Account)  
 9. User Library  
 10. Recent Coupons Generated  
-11. Generate
+11. Generate  
 1.UPC Generator  
    UPC Picture Format  
 2.RSS Generator  
-   RSS Picture Format
+   RSS Picture Format  
 # Figure out:
 Save Users Library (Database)  
 Save Username & Passwords  
