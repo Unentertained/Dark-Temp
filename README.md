@@ -25,7 +25,7 @@ Make Pages
   2.RSS Generator  
      *RSS Picture Format  
 # Figure out:
-- [ ]Save Users Library (Database)  
-- [ ]Save Username & Passwords  
-- [ ]How the F*** Cookies work  
-- [ ]Convert Functions to JS  
+- [ ] Save Users Library (Database)  
+- [ ] Save Username & Passwords  
+- [ ] How the F*** Cookies work  
+- [ ] Convert Functions to JS  
