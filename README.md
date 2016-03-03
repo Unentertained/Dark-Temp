@@ -21,11 +21,11 @@ Make Pages
 10. Recent Coupons Generated  
 11. Generate  
 1.UPC Generator  
-UPC Picture Format  
+⋅⋅⋅UPC Picture Format  
 2.RSS Generator  
-RSS Picture Format  
+⋅⋅⋅RSS Picture Format  
 # Figure out:  
-Save Users Library (Database)
-Save Username & Passwords
-How the F*** Cookies work
-Convert Functions to JS
+Save Users Library (Database)  
+Save Username & Passwords  
+How the F*** Cookies work  
+Convert Functions to JS  
