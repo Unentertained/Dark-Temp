@@ -23,7 +23,8 @@ Make Pages
    1. UPC Generator  
       - UPC Picture Format  
    2. RSS Generator  
-      - RSS Picture Format  
+      - RSS Picture Format   
+
 # Figure out:
 - [ ] Save Users Library (Database)  
 - [ ] Save Username & Passwords  
