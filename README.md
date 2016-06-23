@@ -1,6 +1,3 @@
-# Dark-Temp
-Darkly bootstrap with edited Navbar (so far)
-
 # Explaination of files:
 
   custom.js  
